@@ -1,0 +1,28 @@
+            "title": "Crow Hymns, 1900-2018",
+            "description": "Recordings of Crow hymns made in private settings and public gatherings on the Crow Reservation from 1900 to 2018. The oldest recording was made by anthropologist Robert Lowie with Crow people on wax cylinders around 1900. David Graber recorded songs at the Lodge Grass Catholic Church in Lodge Grass and at the Burgess Baptist Church in Crow Agency.  His other recording locations include camp meetings, private homes,  prayer services for the Crow Tribe, home prayer meetings,  and other religious gatherings on the reservation from 1985 to 1990s. The recordings also include copies of recordings given to Graber by Crow singers.",
+            "provenance": "Robert Lowie recorded audio on wax cyclinders with Crow people on the reservation in the 1900s.  One of those recordings included a Crow hymn song by Max Big Man, a copy of which is part of the Graber recordings in this CIVAM collection. According to Peggy Well-Known Buffalo, Max and Gretchen Big Man and their children Annie, Carol Bull in Sight are well-known for singing these hymns. Lowie's original recordings are held at the Robert Lowie Museum of Anthropology at University of California, Berkeley.  \r\n \r\nThe Crow Bible Translation Committee in Pryor was formed in late 1960s and 1970s.  They recorded elders singing of Crow hymns. A Crow linguist began recording on cassette tapes in early 1970s.\r\n\r\n\r\n1997 went from reel to reel to mini-disks.\r\n\r\nIn 1985, a committee of Crow people concerned about preserving the tradition sponsored the recording sessions and the Crow Hymns Project was organized.  They included David Graber, Georgine Falls Down, Sampson Bird in Ground,  Debbie Yarlott, Larry and Gwen Plain Bull, Joseph and Gloria Medicine Crow, David Turns Plenty, Mabel...\r\n\r\nA Montana Humanities grant was awarded with the support of Dr. Janine Pease, then founder and president of Little Big Horn College, in 1989.",
+            "citation": "Crow Hymns collection, 1900-2018. Crow Indian Virtual Archive and Museum.",
+            "historical_note": "Crow hymns are indigenous songs meant to connect Crow singing of Christia To paraphrase Joe Medicine Crow, Crow people heard the good news of Christianity at the turn of the century. They continued to seek the creator's wisdom in prayer and fasting at locations in the mountians identified with family fasting and praying locations.  Where a person would go to fast and pray without food or water for days at a time or until they received a vision, usually with a song.  WIth the coming of Christianity, this tradition became the source of many Crow hymns.  So the tune and the words expressed all were deeply embedded in Absalooke language, ways of thinking, and music.\r\n\r\nThe women allowed to be religious leaders in 19203-1930s.\r\n\r\nDave Graber knows when one song ends and another one begins, so he is able to splice the reel-to-reel into individual songs.",
+            "access_notes_or_rights_and_reproduction": "The Crow hymns have been released by the consensus of the Crow Tribal Council and Crow Hymn Project for purposes of preservation, education and promotion in the Crow Nation, and beyond.  Crow Tribal Council Resolution #",
+            "catalog_number": "Hymn 1",
+
+        "fields": {
+            "name": "Bik baa ewahcheleetkaatak/ I don't know anything by myself, early 1900s",
+            "cover_image": "cover_images/items/Small_Section_of_the_song.png",
+            "description": "Sheet music and QR code to play audio of the song Bik baa ewahcheleetkaatak/ I don't know anything by myself, early 1900s, recording in 1970s. The song is known as Maggie Brass' personal song. Larry Plain Bull, Pyror, Montana, sings the song along with his group, including his wife Gwen Plain Bull, and three other people  It is recorded by David Graber in Crow Agency in 1985. Most songs cannot be performed appropriately on a musical instrument because Native American scales vary widely.",
+            "collection": 10,
+            "culture_or_community": "Aps\u00e1alooke (Crow/Absaroke)",
+            "other_forms": "Reel-to reel tape of an original recording are at Little Big Horn College Archives.  The reel-to-reel recording has not been divided into separate songs.",
+            "date_of_creation": "1985",
+            "physical_details": "sheet music; QR code",
+            "access_notes_or_rights_and_reproduction": "The Crow hymns have been released by the consensus of the Crow Tribal Council and Crow Hymn Project for purposes of preservation, education and promotion in the Crow Nation, and beyond.  Crow Tribal Council Resolution #",
+            "catalog_number": "Hymn 1",
+            "external_link": null,
+            "provenance": "Reel-to reel tape of an original recording are at Little Big Horn College Archives and Dave Graber personal collection, Hardin, MT.",
+            "private_notes": "fix cover image",
+            "citation": "Maggie Brass, Bik baa ewahcheleetkaatak/ I don't know anything by myself, early 1900s. Hymn 1, Crow Hymn collection, Crow Indian Virtual Archive and Museum",
+            "historical_note": "It is more important to know who owned the song and had the rights to gift to human kind than it is to know who first created or received the song from the creator. The act of receiving a song was spiritual. They were often received during a vision quest.",
+            "place_created": "Crow reservation",
+            "location_of_originals": "The original recording is at the Little Big Horn College Archives.",
+            
+            
