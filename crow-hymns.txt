@@ -1,11 +1,81 @@
+    {
+        "model": "civam.personorinstitute",
+        "pk": 18,
+        "fields": {
+            "name": "Crow Hymn Project",
+            "culture": null,
+            "dates": null,
+            "description": "",
+            "historical_note": "",
+            "isPerson": false,
+            "cover_image": "",
+            "address": null,
+            "contact": null,
+            "private_notes": "",
+            "created_by": 3,
+            "created_on": "2021-07-18T19:06:53.900Z",
+            "modified_by": 3,
+            "modified_on": "2021-07-18T19:06:53.900Z",
+            "related_collections": []
+        }
+    },
+    
+    
+        {
+        "model": "civam.keyword",
+        "pk": 451,
+        "fields": {
+            "word": "Hymns",
+            "created_by": 3,
+            "created_on": "2021-07-18T19:07:42.510Z",
+            "modified_by": 3,
+            "modified_on": "2021-07-18T19:07:42.511Z"
+        }
+    },
+    
+     {
+        "model": "civam.collection",
+        "pk": 10,
+        "fields": {
             "title": "Crow Hymns, 1900-2018",
+            "my_order": 6,
             "description": "Recordings of Crow hymns made in private settings and public gatherings on the Crow Reservation from 1900 to 2018. The oldest recording was made by anthropologist Robert Lowie with Crow people on wax cylinders around 1900. David Graber recorded songs at the Lodge Grass Catholic Church in Lodge Grass and at the Burgess Baptist Church in Crow Agency.  His other recording locations include camp meetings, private homes,  prayer services for the Crow Tribe, home prayer meetings,  and other religious gatherings on the reservation from 1985 to 1990s. The recordings also include copies of recordings given to Graber by Crow singers.",
+            "dates": "1985-1990s",
+            "cover_image": "",
+            "public": true,
             "provenance": "Robert Lowie recorded audio on wax cyclinders with Crow people on the reservation in the 1900s.  One of those recordings included a Crow hymn song by Max Big Man, a copy of which is part of the Graber recordings in this CIVAM collection. According to Peggy Well-Known Buffalo, Max and Gretchen Big Man and their children Annie, Carol Bull in Sight are well-known for singing these hymns. Lowie's original recordings are held at the Robert Lowie Museum of Anthropology at University of California, Berkeley.  \r\n \r\nThe Crow Bible Translation Committee in Pryor was formed in late 1960s and 1970s.  They recorded elders singing of Crow hymns. A Crow linguist began recording on cassette tapes in early 1970s.\r\n\r\n\r\n1997 went from reel to reel to mini-disks.\r\n\r\nIn 1985, a committee of Crow people concerned about preserving the tradition sponsored the recording sessions and the Crow Hymns Project was organized.  They included David Graber, Georgine Falls Down, Sampson Bird in Ground,  Debbie Yarlott, Larry and Gwen Plain Bull, Joseph and Gloria Medicine Crow, David Turns Plenty, Mabel...\r\n\r\nA Montana Humanities grant was awarded with the support of Dr. Janine Pease, then founder and president of Little Big Horn College, in 1989.",
             "citation": "Crow Hymns collection, 1900-2018. Crow Indian Virtual Archive and Museum.",
             "historical_note": "Crow hymns are indigenous songs meant to connect Crow singing of Christia To paraphrase Joe Medicine Crow, Crow people heard the good news of Christianity at the turn of the century. They continued to seek the creator's wisdom in prayer and fasting at locations in the mountians identified with family fasting and praying locations.  Where a person would go to fast and pray without food or water for days at a time or until they received a vision, usually with a song.  WIth the coming of Christianity, this tradition became the source of many Crow hymns.  So the tune and the words expressed all were deeply embedded in Absalooke language, ways of thinking, and music.\r\n\r\nThe women allowed to be religious leaders in 19203-1930s.\r\n\r\nDave Graber knows when one song ends and another one begins, so he is able to splice the reel-to-reel into individual songs.",
-            "access_notes_or_rights_and_reproduction": "The Crow hymns have been released by the consensus of the Crow Tribal Council and Crow Hymn Project for purposes of preservation, education and promotion in the Crow Nation, and beyond.  Crow Tribal Council Resolution #",
-            "catalog_number": "Hymn 1",
-
+            "access_notes_or_rights_and_reproduction": "",
+            "geographical_location": "Crow Reservation, MT",
+            "location_of_originals": "24 reel to reel recordings are stored at the Little Big Horn College Archives.  Graber also has digital copies of those recordings in his private collection",
+            "background_image": "",
+            "font_color": "#000000",
+            "font_type": "",
+            "font_size": "",
+            "private_notes": "",
+            "private_cataloger": "Cindy Ott",
+            "private_catalog_date": "2021-07-18T19:07:21Z",
+            "created_by": 3,
+            "created_on": "2021-07-18T18:05:19.736Z",
+            "modified_by": 3,
+            "modified_on": "2021-07-26T21:23:11.910Z",
+            "keywords": [
+                451
+            ],
+            "creator": [
+                5,
+                16,
+                17,
+                18
+            ]
+        }
+    },
+    
+    
+     {
+        "model": "civam.item",
+        "pk": 414,
         "fields": {
             "name": "Bik baa ewahcheleetkaatak/ I don't know anything by myself, early 1900s",
             "cover_image": "cover_images/items/Small_Section_of_the_song.png",
@@ -24,5 +94,363 @@
             "historical_note": "It is more important to know who owned the song and had the rights to gift to human kind than it is to know who first created or received the song from the creator. The act of receiving a song was spiritual. They were often received during a vision quest.",
             "place_created": "Crow reservation",
             "location_of_originals": "The original recording is at the Little Big Horn College Archives.",
-            
-            
+            "is_cataloged": 1,
+            "private_cataloger": "Cindy Ott",
+            "private_catalog_date": "2021-07-26T21:05:18Z",
+            "created_by": 3,
+            "created_on": "2021-07-26T20:21:38.166Z",
+            "modified_by": 3,
+            "modified_on": "2021-07-26T21:22:49.960Z",
+            "keywords": [
+                455,
+                23,
+                230,
+                457,
+                24,
+                4,
+                128,
+                451,
+                461,
+                460,
+                458,
+                462,
+                459,
+                456,
+                68
+            ],
+            "creator": [
+                15
+            ],
+            "changers": [
+                3
+            ]
+        }
+    },
+    
+    ------------------------- everything below here is log entry, but I have added them for completeness -----------------------------------
+        {
+        "model": "admin.logentry",
+        "pk": 3424,
+        "fields": {
+            "action_time": "2021-07-18T18:05:19.746Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3426,
+        "fields": {
+            "action_time": "2021-07-18T18:07:53.236Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Geographical location\", \"Creator\", \"Location of originals\"]}}]"
+        }
+    },
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3426,
+        "fields": {
+            "action_time": "2021-07-18T18:07:53.236Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Geographical location\", \"Creator\", \"Location of originals\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3427,
+        "fields": {
+            "action_time": "2021-07-18T18:10:51.741Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Dates\", \"Provenance\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3428,
+        "fields": {
+            "action_time": "2021-07-18T18:13:46.343Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Dates\"]}}]"
+        }
+    },
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3429,
+        "fields": {
+            "action_time": "2021-07-18T18:15:30.941Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Description\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3430,
+        "fields": {
+            "action_time": "2021-07-18T18:22:48.631Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1985-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Description\"]}}]"
+        }
+    },
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3436,
+        "fields": {
+            "action_time": "2021-07-18T18:35:57.760Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Provenance\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3437,
+        "fields": {
+            "action_time": "2021-07-18T18:36:57.643Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3438,
+        "fields": {
+            "action_time": "2021-07-18T18:39:31.370Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Provenance\", \"Citation\"]}}]"
+        }
+    },
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3440,
+        "fields": {
+            "action_time": "2021-07-18T18:46:22.914Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Provenance\", \"Historical/Biographical Note\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3441,
+        "fields": {
+            "action_time": "2021-07-18T18:47:31.855Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Historical/Biographical Note\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3442,
+        "fields": {
+            "action_time": "2021-07-18T18:51:35.850Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Historical/Biographical Note\"]}}]"
+        }
+    },
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3444,
+        "fields": {
+            "action_time": "2021-07-18T19:00:34.612Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Provenance\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3445,
+        "fields": {
+            "action_time": "2021-07-18T19:02:24.249Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Provenance\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3446,
+        "fields": {
+            "action_time": "2021-07-18T19:04:48.874Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Provenance\"]}}]"
+        }
+    },
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3449,
+        "fields": {
+            "action_time": "2021-07-18T19:06:53.906Z",
+            "user": 3,
+            "content_type": 18,
+            "object_id": "18",
+            "object_repr": "Crow Hymn Project",
+            "action_flag": 1,
+            "change_message": "[{\"added\": {}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3450,
+        "fields": {
+            "action_time": "2021-07-18T19:07:05.289Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Creator\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3451,
+        "fields": {
+            "action_time": "2021-07-18T19:07:25.325Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Private cataloger\", \"Private catalog date\"]}}]"
+        }
+    },
+    
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3453,
+        "fields": {
+            "action_time": "2021-07-18T19:08:00.216Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Keywords\"]}}]"
+        }
+    },
+    {
+        "model": "admin.logentry",
+        "pk": 3454,
+        "fields": {
+            "action_time": "2021-07-19T03:04:46.045Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[]"
+        }
+    },
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3493,
+        "fields": {
+            "action_time": "2021-07-26T20:45:32.753Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[{\"changed\": {\"fields\": [\"Historical/Biographical Note\"]}}]"
+        }
+    },
+    
+        {
+        "model": "admin.logentry",
+        "pk": 3519,
+        "fields": {
+            "action_time": "2021-07-26T21:23:11.918Z",
+            "user": 3,
+            "content_type": 3,
+            "object_id": "10",
+            "object_repr": "Crow Hymns, 1900-2018",
+            "action_flag": 2,
+            "change_message": "[]"
+        }
+    },
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
